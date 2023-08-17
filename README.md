@@ -64,6 +64,6 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 
 ---
 
-**Note:** The solutions provided in this repository are for educational purposes and to showcase problem-solving skills. Make sure to understand the solutions and attempt the problems on your own over at [LearnDSA](https://www.codechef.com/LEARNDSA)  before referring to them. The problems are the intellectual property of CodeChef.
+**Note:** The solutions provided in this repository are for educational purposes and to showcase problem-solving skills. Make sure to understand the solutions and attempt the problems on your own over at [LearnDSA](https://www.codechef.com/LEARNDSA)  before referring to them.
 
 ## Happy Learning and Coding! 🚀
