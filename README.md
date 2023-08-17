@@ -14,7 +14,7 @@ To know more about the DSA Learning Series, you can visit the [official page](ht
 
 The series is divided into various sections, each focusing on a specific topic. Here's an overview of the contents:
 
-- **[0. Easy Problems to Get Started](/https://github.com/arindal1/CodeChef-LearnDSA/tree/main/0.%20Easy%20Starters)**: Introduction to basic programming concepts.
+- **[0. Easy Problems to Get Started](https://github.com/arindal1/CodeChef-LearnDSA/tree/main/0.%20Easy%20Starters)**: Introduction to basic programming concepts.
 - **[1. Complexity Analysis + Basics Warm Up](https://github.com/arindal1/CodeChef-LearnDSA/tree/main/1.%20Basic%20WarmUp)**: Understanding time and space complexity, and warming up with basic problems.
 - **[2. Linear Data Structures](https://github.com/arindal1/CodeChef-LearnDSA/tree/main/2.%20Linear%20Data%20Structures)**: Exploring arrays, linked lists, and other linear data structures.
 - **[3. Standard Template Library (STL)](https://github.com/arindal1/CodeChef-LearnDSA/tree/main/3.%20STLs)**: Learning about C++ STL and its various components.
